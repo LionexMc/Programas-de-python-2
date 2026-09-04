@@ -1,4 +1,4 @@
-LUIS EDUARDO HERNENANDEZ MARTINEZ
+LUIS EDUARDO HERNANDEZ MARTINEZ
 2515151583
 1.-el primero hace el conteo de un número entero
 2.-el segundo hace que los múltiplos de 3,5 o de ambos números se les asigne una letra 
